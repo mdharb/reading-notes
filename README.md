@@ -14,5 +14,5 @@ without growth mindset people we might be still in the woods until this day. The
 **how to keep yourself in growth mindset:**
 
 * Remind yourself where you were yesterday and the progress that you made today.
-* Remind yourself about the energy and time that you might lose in your youth.
+* Remind yourself about the imoprtance of energy and time that you still have while you are in youth.
 * Your brain is a gift with unlimited abilities, don't ever limit it. 
