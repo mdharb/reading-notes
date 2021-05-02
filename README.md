@@ -7,7 +7,7 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male h
 
 # Growth Mindset:
 
-Growth mindset is having the mentality of accepting the idea of getting a harsh road full of challenges, and obstacles for the sake of learning an self developing insted of living in the pain of stagnation and self-blaming while you are in comfort zone. Having a growth mindset gives you an advantage to be more self-confident about your ability, and the ability of human's brain of thinking in different ways, subsequantly knowing that finding a solution for every problem or issue that you face in your daily life is only a matter of time and effort that you must be made. 
+Growth mindset is having the mentality of accepting the idea of getting a harsh road full of challenges, and obstacles for the sake of learning an self developing, insted of living in the pain of stagnation and self-blaming while you are in comfort zone. Having a growth mindset gives you an advantage to be more self-confident about your ability, and the ability of human's brain of thinking in different ways, subsequantly knowing that finding a solution for every problem or issue that you face in your daily life is only a matter of time and effort that you must be made. 
 without people with growth mindset we might be still in the woods until this day. They are mading our life more sustainable and liveable day after day by their developement.
 >It’s not that I’m so smart, it’s just that I stay with problems longer. – Albert Einstein
 
