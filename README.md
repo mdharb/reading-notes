@@ -11,7 +11,7 @@ Growth mindset is having the mentality of accepting the idea of getting a harsh 
 without people with growth mindset we might be still in the woods until this day. They are mading our life more sustainable and liveable day after day by their developement.
 >It’s not that I’m so smart, it’s just that I stay with problems longer. – Albert Einstein
 
-**how to keep yourself in growth mindset:**
+**How to keep yourself in growth mindset:**
 
 * Remind yourself where you were yesterday and the progress that you made today.
 * Remind yourself about the imoprtance of energy and time that you still have while you are in youth.
