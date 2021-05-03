@@ -8,7 +8,7 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male h
 # Table of Contents
 
 | Title         | URL |
-|-------        |---------|
+|:-------:        |:---------:|
 | GitHub        | [Link1](read01.md)| 
 | Git           | [Link2](read02.md)|
 | Growth mindset| [Link3](Growth_mindset.md)|
