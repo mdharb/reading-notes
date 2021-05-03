@@ -5,7 +5,7 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male h
 
 **Github profile:** [Mohammad Harb](https://github.com/mdharb)
 
-# Table of content
+# Table of Contents
 
 | Title         | URL |
 |-------        |---------|
