@@ -13,6 +13,7 @@ A document is usually a text file structured using a markup language — [**HTML
 * **External CSS:**
 
 With an external style sheet, you can change the look of an entire website by changing just one file.
+
 Each **HTML** page must include a reference to the external style sheet file inside the ***<link>*** element, inside the head section.
 
 * **Internal CSS**
