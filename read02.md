@@ -19,4 +19,3 @@ Version Control is a system that allows you to revisit various versions of a fil
 Every single change applied to any file or directory is tracked by **Git**. And, as the gatekeeper, **Git** will always detect file corruption or loss of information in transit.
 
 **Git** is set up to greatly minimize the possibility of irreversible damage to files, such as accidentally lost data. Git makes it extremely difficult for a snapshot of your file that is committed to be lost.
-
