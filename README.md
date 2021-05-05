@@ -1,4 +1,4 @@
-ch# Reading-Notes
+# Reading-Notes
 
 ## Personal Info. :
 My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male holding a bachelor's degree in industrial engineering from [JUST](https://www.just.edu.jo/Pages/Default.aspx). 
@@ -13,4 +13,5 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male h
 | Read02        |   GitHub        | [Link2](read02.md)|
 | Growth_Mindset|  Growth Mindset | [Link3](Growth_mindset.md)|
 | Read03        |  HTML, wireframing & design|[Link4](read03.md)|  
-| Read03b       | CSS             |[Link5](read03b.md)| 
+| Read03b       | CSS             | [Link5](read03b.md)|
+| Read04        | Javascript      | [Link6](read04.md)|
