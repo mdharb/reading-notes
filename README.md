@@ -29,7 +29,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 
 |      Title             |    Description          |  Link     |
 | :---------:            |  :---------:            | :--------:|          
-|    Class 01             |                         |           |
+|    Class 01             |    HTML & Javascript   | [Link01](class01.md)           |
 |    Class 02             |                         |           |
 |    Class 03             |                         |           |
 |    Class 04             |                         |           |
