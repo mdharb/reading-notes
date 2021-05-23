@@ -14,14 +14,14 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 
 | Title         | Description      | URL |
 |:-------:      |:-------:         |:---------:|
-| Read01        |   Git            | [Link01](read01.md)
-| Read02        |   GitHub         | [Link02](read02.md)|
-| Growth_Mindset|  Growth Mindset  | [Link03](Growth_mindset.md)|
-| Read03        |  HTML, wireframing & design|[Link04](read03.md)|  
-| Read03b       | CSS              | [Link05](read03b.md)|
-| Read04        | Javascript intro.| [Link06](read04.md)|
-| Read05        | operators & Loops|[Link07](read05.md)|
-| Read06        | Functions|[Link08](read06.md)|
+| Read01        |   Git            | [Link01](102/read01.md)
+| Read02        |   GitHub         | [Link02](102/read02.md)|
+| Growth_Mindset|  Growth Mindset  | [Link03](102/Growth_mindset.md)|
+| Read03        |  HTML, wireframing & design|[Link04](102/read03.md)|  
+| Read03b       | CSS              | [Link05](102/read03b.md)|
+| Read04        | Javascript intro.| [Link06](102/read04.md)|
+| Read05        | operators & Loops|[Link07](102/read05.md)|
+| Read06        | Functions|[Link08](102/read06.md)|
 
 
 # Code 201 Reading Notes.
@@ -29,8 +29,8 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 
 |      Title             |    Description          |  Link     |
 | :---------:            |  :---------:            | :--------:|          
-|    Class 01             |    HTML & Javascript   | [Link01](class01.md)           |
-|    Class 02             |                         |           |
+|    Class 01             |    HTML & Javascript   | [Link01](201/class-01.md)         |
+|    Class 02             |     HTML & JavaScript intro.  |       [Link02](201/class-02.md)    |
 |    Class 03             |                         |           |
 |    Class 04             |                         |           |
 |    Class 05             |                         |           |
