@@ -29,7 +29,7 @@ describe both **headings** and **paragraphs**._
 * **Decisions:** Is using the results of evaluations, you can decide which path your script should go down.
 * **Loops:**  Using when you will want to perform the same set of steps repeatedly.
 
-# **Components to a decision and their operators:**
+# Components to a decision and their operators:
 
 * **Evaluation of a condition.**
 1. Comparison Operators.
@@ -46,7 +46,7 @@ describe both **headings** and **paragraphs**._
 3. Do...While Loops.
 
 
-# **Data types:**
+# Data types:
 
 * Numeric Data Type.
 * String Data Type.
