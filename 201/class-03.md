@@ -35,7 +35,7 @@ definitions for each of those terms.
 
 > You should consider using an array whenever you are working with a list or a set of values that are related to each other. 
 
-## **Vlaues in arrays:**
+## **Values in arrays:**
 
 > Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).
 
