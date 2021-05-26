@@ -33,7 +33,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 02             | HTML & JavaScript intro.                    | [Link02](201/class-02.md)    |
 |    Class 03             | HTML Lists, CSS Boxes, JS Control Flow      | [Link03](201/class-03.md) |
 |    Class 04             | HTML Links, JS Functions,& Intro to CSS Layout                                            | [Link04](201/class-04.md)                  |
-|    Class 05             | HTML Images; CSS Color & Text                                            | [Link05](class-05.md)                 |
+|    Class 05             | HTML Images; CSS Color & Text               | [Link05](class-05.md)|
 |    Class 06             |                                             |                   |
 |    Class 07             |                                             |                   |
 |    Class 08             |                                             |                   |
