@@ -29,13 +29,13 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 
 |      Title              |    Description                              |  Link             |
 | :---------:             |  :---------:                                | :--------:        |          
-|    Class 01             |    HTML & Javascript                        | [Link01](201/class-01.md)|
-|    Class 02             | HTML & JavaScript intro.                    | [Link02](201/class-02.md)    |
+|    Class 01             |    HTML & Javascript                        | [Link01](201/class-01.md) |
+|    Class 02             | HTML & JavaScript intro.                    | [Link02](201/class-02.md) |
 |    Class 03             | HTML Lists, CSS Boxes, JS Control Flow      | [Link03](201/class-03.md) |
 |    Class 04             | HTML Links, JS Functions,& Intro to CSS Layout | [Link04](201/class-04.md)|
 |    Class 05             | HTML Images; CSS Color & Text               | [Link05](201/class-05.md)|
 |    Class 06             | JS Object Literals; The DOM                 | [Link06](201/class-06.md)|
-|    Class 07             |                                             |                   |
+|    Class 07             | Object-Oriented Programming, HTML Tables    |  [Link07](201/class-07.md)|
 |    Class 08             |                                             |                   |
 |    Class 09             |                                             |                   |
 |    Class 10             |                                             |                   |
