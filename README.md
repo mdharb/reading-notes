@@ -36,7 +36,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 05             | HTML Images; CSS Color & Text               | [Link05](201/class-05.md)|
 |    Class 06             | JS Object Literals; The DOM                 | [Link06](201/class-06.md)|
 |    Class 07             | Object-Oriented Programming, HTML Tables    |  [Link07](201/class-07.md)|
-|    Class 08             |                                             |                   |
+|    Class 08             | CSS Layout                                  | [Link08](201/class-08.md) |
 |    Class 09             |                                             |                   |
 |    Class 10             |                                             |                   |
 |    Class 11             |                                             |                   |
