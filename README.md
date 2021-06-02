@@ -38,7 +38,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 07             | Object-Oriented Programming, HTML Tables    |  [Link07](201/class-07.md)|
 |    Class 08             | CSS Layout                                  | [Link08](201/class-08.md) |
 |    Class 09             | Forms and JS Events                         | [link09](201/class-09.md) |
-|    Class 10             |                                             |                   |
+|    Class 10             | Debugging                                   | [Link10](201/class-10.md)|
 |    Class 11             |                                             |                   |
 |    Class 12             |                                             |                   |
 |    Class 13             |                                             |                   |
