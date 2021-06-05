@@ -39,7 +39,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 08             | CSS Layout                                  | [Link08](201/class-08.md) |
 |    Class 09             | Forms and JS Events                         | [link09](201/class-09.md) |
 |    Class 10             | Debugging                                   | [Link10](201/class-10.md)|
-|    Class 11             | Assorted Topics                             | [Link11](201/class-12.md)|
+|    Class 11             | Assorted Topics                             | [Link11](201/class-11.md)|
 |    Class 12             |                                             |                   |
 |    Class 13             |                                             |                   |
 |    Class 14             |                                             |                   |
