@@ -6,7 +6,7 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male h
 **Github profile:** [Mohammad Harb](https://github.com/mdharb)
 
 # Description:
-This website is about adding the **reading** _exercises_, _headlines_ and _notes_ that we are taking during our way to be **software developers**, in order to collect them in one place to be more easy to access. This course is giving by [ASAC](https://asac.ltuc.com/) in collaboration with [code fellows](https://www.codefellows.org/).
+This website is about adding the **reading** _exercises_, _headlines_ and _notes_ that we are taking during our way to be **software developers**, in order to collect them in one place to be more easy to access. This course is giving by [ASAC](https://asac.ltuc.com/) in collaboration with [Code Fellows](https://www.codefellows.org/).
 
 
 # Code 102 Reading Notes.
@@ -27,7 +27,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 # Code 201 Reading Notes.
 ## Table of Contents:
 
-|      Title              |    Description                              |  Link             |
+|      Title              |    Description                              |  URL             |
 | :---------:             |  :---------:                                | :--------:        |          
 |    Class 01             |    HTML & Javascript                        | [Link01](201/class-01.md) |
 |    Class 02             | HTML & JavaScript intro.                    | [Link02](201/class-02.md) |
@@ -40,7 +40,7 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 09             | Forms and JS Events                         | [link09](201/class-09.md) |
 |    Class 10             | Debugging                                   | [Link10](201/class-10.md)|
 |    Class 11             | Assorted Topics                             | [Link11](201/class-11.md)|
-|    Class 12             |                                             |                   |
+|    Class 12             | Chart.js, Canvas                            | [Link12](201/class-12.md)|
 |    Class 13             |                                             |                   |
 |    Class 14             |                                             |                   |
 |    Class 15             |                                             |                   |
