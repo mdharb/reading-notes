@@ -41,6 +41,6 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 10             | Debugging                                   | [Link10](201/class-10.md)|
 |    Class 11             | Assorted Topics                             | [Link11](201/class-11.md)|
 |    Class 12             | Chart.js, Canvas                            | [Link12](201/class-12.md)|
-|    Class 13             |                                             |                   |
+|    Class 13             | Local Storage                               | [Link12](201/class-13.md)|
 |    Class 14             |                                             |                   |
 |    Class 15             |                                             |                   |
