@@ -33,7 +33,7 @@
   5. Square to circle.
   6. 3D shadow.
   7. Swing.
-  8. Inset border.
+  8. Insert border.
 
 #### **Animations**
 
