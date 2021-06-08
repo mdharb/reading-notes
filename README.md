@@ -42,5 +42,5 @@ This website is about adding the **reading** _exercises_, _headlines_ and _notes
 |    Class 11             | Assorted Topics                             | [Link11](201/class-11.md)|
 |    Class 12             | Chart.js, Canvas                            | [Link12](201/class-12.md)|
 |    Class 13             | Local Storage                               | [Link13](201/class-13.md)|
-|    Class 14             |                                             |                   |
-|    Class 15             |                                             |                   |
+|    Class 14             | CSS Transforms, Transitions, and Animations | [Link14a](201/class-14a.md)|
+|    Class 15             | What Google Learned About Teams             | [Link14b](201/class-14b.md)|
