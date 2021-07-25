@@ -46,7 +46,7 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male, 
 |      Title             |              Description                    |         URL             |
 | :---------:            |             :---------:                     |       :--------:        |
 |    Read 01             | Introduction to React and Components        | [Link01](301/class-01.md)|
-|    Read 02             |                                             | [Link02](301/class-02.md)|
+|    Read 02             | State and Props                             | [Link02](301/class-02.md)|
 |    Read 03             |                                             | [Link03](301/class-03.md)|
 |    Read 04             |                                             | [Link04](301/class-04.md)|
 |    Read 05             |                                             | [Link05](301/class-05.md)|
