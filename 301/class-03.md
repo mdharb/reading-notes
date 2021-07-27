@@ -20,7 +20,7 @@
 
 1. **What is the spread operator?**
 
-* **Spread syntax** refers to the use of an ellipsis of three dots `(…)` to expand an iterable object into the list of arguments.
+   * **Spread syntax** refers to the use of an ellipsis of three dots `(…)` to expand an iterable object into the list of arguments.
 
 2. **List the things that the spread operator can do:**
 
@@ -35,12 +35,12 @@
 
 3. **Give an example of using the spread operator to combine two arrays.**
 
-```
+   ```
   let arrOfMales = ["Mohammad" , "Anas" , "Malik"];
   let arrofFemales = ["Sara" , "Shahd" , "Farah"];
   let arrBothGender = [...arrOfMales , ...arrofFemales];
   //The result will be for arrBothGender = ["Mohammad", "Anas", "Malik", "Sara", "Shahd", "Farah"];
-```
+  ```
 
 4. **Give an example of using the spread operator to add a new item to an array.**
 
@@ -67,7 +67,7 @@ Object {
   "gender": "Male",
   "name": "Mohammad Harb",
 }
-* /
+*/
 ```
 
 ***
