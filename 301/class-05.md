@@ -1,6 +1,6 @@
 # Putting it all together [React](https://reactjs.org/)
 
-##  Thinking in React
+## Thinking in React
 
 1. **How would you break a mock into a component heirarchy?**
     * Draw boxes around every component and subcomponent in the mock and give them all names.
