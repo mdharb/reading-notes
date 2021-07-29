@@ -49,7 +49,7 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male, 
 |    Read 02             | State and Props                             | [Link02](301/class-02.md)|
 |    Read 03             | Passing Functions as Props                  | [Link03](301/class-03.md)|
 |    Read 04             | React and Forms                             | [Link04](301/class-04.md)|
-|    Read 05             | Putting it all together                     | [Link05](301/class-05.md)|
+|    Read 05             | Putting it all together "React"             | [Link05](301/class-05.md)|
 |    Read 06             |                                             | [Link06](301/class-06.md)|
 |    Read 07             |                                             | [Link07](301/class-07.md)|
 |    Read 08             |                                             | [Link08](301/class-08.md)|

@@ -20,7 +20,7 @@
 ***
 
 4. Once you have a static application, what do you need to add?
-    * Adding interactivity by identifing the minimal but complete Representation Of UI ***State***
+    * Adding interactivity by identifing the minimal but complete representation Of UI ***state***
 
 ***    
 
