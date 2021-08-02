@@ -3,8 +3,7 @@
 ## API Design Best Practices
 
 1. **What does REST stand for?**
-   * Platform independence
-   * Service evolution.
+   * Representational State Transfer
 
 ***
 
