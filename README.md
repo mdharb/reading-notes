@@ -56,9 +56,9 @@ My name is Mohammad Harb, I am living in Amman, Jordan. I am 28 years old male, 
 |    Read 09             | FUNCTIONAL PROGRAMMING                      | [link09](301/class-09.md)|
 |    Read 10             | In Memory Storage                           | [Link10](301/class-10.md)|
 |    Read 11             | Authentication                              | [Link11](301/class-11.md)|
-|    Read 12             |                                             | [Link12](301/class-12.md)|
+|    Read 12             | Mongo and Mongoose                          | [Link12](301/class-12.md)|
 |    Read 13             |                                             | [Link13](301/class-13.md)|
-|    Read 14             |                                             | [Link14](301/class-14a.md)|
-|    Read 15             |                                             | [Link15](301/class-14b.md)|
+|    Read 14             |                                             | [Link14](301/class-14.md)|
+|    Read 15             |                                             | [Link15](301/class-15.md)|
 
 ## Code 401 - Advanced Software Development
